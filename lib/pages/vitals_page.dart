@@ -146,7 +146,7 @@ class _VitalsPageState extends State<VitalsPage> {
             style: Theme.of(context)
                 .textTheme
                 .labelLarge!
-                .copyWith(fontWeight: FontWeight.w300, fontSize: 25),
+                .copyWith(fontWeight: FontWeight.w300, fontSize: 25  ),
           ),
           Container(
             decoration: BoxDecoration(

@@ -1,16 +1,28 @@
-# ambulance_app
+## Emergency Response Client - Ambulance app
 
-A new Flutter project.
+- register ambulance
 
-## Getting Started
+<p align="center">
+  <img src="assets/amb_reg.jpg" alt="Ambulance Registration" width="250"/>
 
-This project is a starting point for a Flutter application.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+- main page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="assets/amb_main.jpg" alt="Ambulance Main" width="250"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- create new case
+
+<p align="center">
+  <img src="assets/amb_newcase.jpg" alt="New case" width="250"/>
+</p>
+
+- create new case
+
+<p align="center">
+  <img src="assets/amb_vitals.jpg" alt="Stream vitals" width="250"/>
+</p>
+
+
