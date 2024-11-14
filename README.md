@@ -10,7 +10,7 @@
 - main page
 
 <p align="center">
-  <img src="assets/amb_main.jpg" alt="Ambulance Main" width="250"/>
+  <img src="assets/amb_home.jpg" alt="Ambulance Main" width="250"/>
 </p>
 
 - create new case
@@ -19,7 +19,7 @@
   <img src="assets/amb_newcase.jpg" alt="New case" width="250"/>
 </p>
 
-- create new case
+- stream patient vitals
 
 <p align="center">
   <img src="assets/amb_vitals.jpg" alt="Stream vitals" width="250"/>
